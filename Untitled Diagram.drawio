@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-12T22:04:40.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="bHdaIs7BBgurul8Dh-es" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-12T22:06:12.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="vIkjpR5ed60NDEP-mx02" version="13.9.7" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="689" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="820" y="471" width="64.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-17" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.tower_server;rounded=0;shadow=0;comic=0;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1060.8" y="450" width="65" height="85" as="geometry" />
+          <mxGeometry x="1060.8" y="460" width="65" height="85" as="geometry" />
         </mxCell>
         <mxCell id="7d933b09d9755ecc-23" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -19,10 +19,13 @@
             <mxPoint x="1040" y="503" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SxyS5-1uCphe1xHPPqr4-12" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12" edge="1" parent="1">
+        <mxCell id="SxyS5-1uCphe1xHPPqr4-12" style="rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=block;endFill=1;strokeColor=#0000FF;strokeWidth=1;fontFamily=Verdana;fontSize=12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160.0037573381333" y="504.56124514719113" as="sourcePoint" />
+            <mxPoint x="1140" y="504" as="sourcePoint" />
             <mxPoint x="1315.4999999999998" y="504.48000000000013" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="504" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SxyS5-1uCphe1xHPPqr4-13" value="" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="SxyS5-1uCphe1xHPPqr4-16" value="Almacenamiento de información&lt;br&gt;dentro del dispositivo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="450" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SxyS5-1uCphe1xHPPqr4-18" value="Sistema Artes Marciales Lima&lt;br&gt;Lama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1008.3" y="550" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
